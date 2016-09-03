@@ -3,7 +3,7 @@
  */
 var mongoose     = require('mongoose');
 var Schema       = mongoose.Schema;
-// var autoIncrement = require('mongoose-auto-increment');
+
 
 
 var BattlesSchema = new Schema({
